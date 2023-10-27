@@ -36,7 +36,7 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
 </html>
 
 ```
-![Screenshot 2023-10-24 101428](https://github.com/aasnovita114/Lab5_web/assets/116045324/5392a76e-f2e2-48f6-82d4-eb6313574b45)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/51198952-0677-42b3-ae8f-cf15241265ec)
 
 # Javascript Dasar
 ## Pemakaian Alert sebagai property window
@@ -63,7 +63,7 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
 <body>
 ```
 ### Hasil Run
-![Screenshot 2023-10-24 104409](https://github.com/aasnovita114/Lab5_web/assets/116045324/68d59172-ef4c-4c0b-9ded-890a7308e996)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/475739fd-3e5c-4cbc-b64e-6aaa0822ddc9)
 
 ## Pemakaian method dalam objek
 ```
@@ -84,7 +84,7 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
     </html>
 ```
 ### Hasil Run
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/4ba5eda1-aab1-40c1-a966-339a66fdc170)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/4905f323-feae-48d4-b9b4-c6a38f9f6390)
 
 ## Pemakaian Prompt
 ```
@@ -104,10 +104,10 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
 </html>
 ```
 ### Hasil Run
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/5539d205-de3a-4099-ada0-41b9cfe40af0)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/d763db10-6b4a-4dd4-bfb0-24c11e613b1e)
 
 #### lalu masukan nama
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/7797d363-8a9b-4f13-ab95-03f7b097e89b)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/32e87ad0-4b4b-417f-a1ef-c951fe45a60f)
 
 ## Pembuatan fungsi dan cara pemanggilannya
 ```
@@ -126,7 +126,7 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
 </html>
 ```
 ### Hasil Run
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/907f50bc-e361-412a-b982-841ed164a719)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/c3bc23c8-a4ca-41db-be20-b33e5d204e37)
 
 # Dasar Pemrograman Di Javascript
 
@@ -159,7 +159,8 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
 </html>
 ```
 ### Hasil Run
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/363922b6-0cac-432b-b7ee-a3d9b225e225)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/29f9e0f9-0f80-42b2-9193-04c2b533dd6c)
+
 
 ## Seleksi kondisi ``` (if..else) ```
 ```
@@ -184,11 +185,11 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
 <html>
 ```
 ### Hasil Run
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/be4f40bd-44cd-46a9-907c-755e4a487bc8)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/7a77221d-1dcf-41c0-9cd7-182c784ce84b)
 
 ``` Kemudian klik "OK" untuk melihat hasil ```
 
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/d6515e1d-9a5a-400c-80e0-4fe6a40f626a)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/873ff5d8-2dc9-4a04-b92b-fda32983e026)
 
 
 
@@ -216,13 +217,11 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
 ```
 ### Hasil Run
 ``` Berinilai dari bilangan satu sampai bilangan lainnya ```
-
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/2cb11a64-9585-4a13-a0a8-80df9c52689d)
-
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/c71e176a-c713-4f74-aabd-a566f8b78f47)
 
 ``` kemudian klik "OK" untuk melihat hasilnya ```
 
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/b85567df-2da3-486c-9260-770c90b292ba)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/42917e06-f64a-406c-a28e-d2ab9755afda)
 
 # Pembuatan From
 ## From Input
@@ -252,10 +251,10 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
 ```
 ### Hasil Run
 ``` Ketik sebuah bilangan Contoh: ```
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/97d9b7c9-1789-4018-a7c1-2c99e22f15e3)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/e7532ad5-7bd9-4d77-b82f-79d6c07c2534)
 
 ``` Kemudian klik "Tebak" maka akan muncul hasilnnya ```
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/ac79e240-a6f9-4efb-9df4-9fa7d971ff64)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/07bbe657-c785-440b-ab95-961757b0ab97)
 
 
 ## Form Button
@@ -295,22 +294,22 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
 </html>
 ```
 ### Hasil Run
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/8560b239-aa87-4161-b414-c382b9e33e06)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/bf471ba1-5441-48d3-900c-d839c1eee79e)
 
 ``` Jika ingin mengubah latar belakang Klik "Latar Belakang Hijau" maka akan berubah,lihat hasilnnya ```
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/947b2760-27ba-47dc-b6a3-fba388b0b5ad)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/2f9ebe5d-278c-46ad-b075-e83d100f35a7)
 
 ``` Sebaliknya jika ingin menugubahnya kembali seperti di atas Klik "Latar Belakang Putih" hasilnnya ```
 
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/a95a6ed4-d663-4b9f-9e2a-b20928ae0083)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/adb0b2fa-17a5-49e6-a8a4-93453e536fc1)
 
 ``` Jika ingin mengubah warna text ```
 
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/13f76519-0662-4b19-a047-c395fc7e7e3b)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/0e921d3b-21ed-4128-a6f3-d25d33fe481b)
 
 ``` jika ingin mengubah warna lain text ```
 
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/a50e0a94-ff3f-4071-abcd-969e111947ab)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/5d1314fb-7dc2-41a6-9eae-f29a5cd45631)
 
 # HTML DOM
 ## Pilihan menggunakan checkBox dengan perhitungan otomatis
@@ -348,10 +347,10 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
 </html>
 ```
 ### Hasil Run
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/431923e6-d28f-4829-bbd8-935ae7f12707)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/ac4dec1f-733a-4b32-8f4d-95c8b12ec49f)
 
 ``` Kemudian pilih menu dan hasilnya akan muncul seperti berikut; ```
-![Screenshot 2023-10-27 004018](https://github.com/aasnovita114/Lab5_web/assets/116045324/e9cc54b6-ec4c-4b77-8929-090d5624dd5c)
+![Screenshot 2023-10-27 004018](https://github.com/aasnovita114/Lab5_web/assets/116045324/6410a1dc-5b02-4021-b164-bc405f1cb332)
 
 # Pertanyaan dan Tugas
 ## 1. Buat script untuk melakukan validasi pada isian form.
@@ -395,12 +394,12 @@ Persiapan membuat dokumen HTML dengan nama file l lab5_javascript.html seperti b
 </html>
 ```
 ### Hasil Run
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/20209c7b-a9e4-4a0f-b23d-02040edb1e91)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/8ff84e00-561f-41cd-8dd5-dd6f51c5a613)
 
 ``` Kemudian masukan email anda ```
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/361e1419-491f-4a50-b16b-a4629a1bd103)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/2c34f347-e5b9-484b-8463-1c9287db05f9)
 
 ``` Maka hasilnya akan seperti di bawah ini; ```
-![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/a7d44a43-356f-4b7d-a391-fcf7a1288d8f)
+![image](https://github.com/aasnovita114/Lab5_web/assets/116045324/585f0b47-d88d-4cba-b797-bfca918b9140)
 
 # Selesai,TerimaKasih:)
